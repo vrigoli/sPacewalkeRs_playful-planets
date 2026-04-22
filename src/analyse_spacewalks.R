@@ -7,7 +7,6 @@ library(dplyr)
 library(ggplot2)
 library(lubridate)
 library(tidyr)
-library(knitr)
 
 output_dir <- '/home/sarah/Projects/spacewalk-analysis/results/figures/'
 
