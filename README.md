@@ -1,4 +1,4 @@
-https://img.shields.io/badge/::ant::-blue
+https://img.shields.io/badge/🐜-blue
 
 # NASA Spacewalk Analysis — Reproducible Manuscript
 
