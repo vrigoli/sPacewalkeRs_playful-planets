@@ -56,7 +56,7 @@ Frequency and cumulative count analyses were conducted in R (version 4.3) using 
 
 ### Data and code availability
 
-The raw EVA dataset is publicly available from NASA at <https://www.nasa.gov/international-space-station/spacewalks/>. All analysis code, the processed dataset, and the source Quarto document used to generate this report are available at **[repository URL — to be completed]** under a GNU General Public v3.0 licence. The repository is archived at Zenodo under 10.5072/zenodo.491774.
+The raw EVA dataset is publicly available from NASA at <https://www.nasa.gov/international-space-station/spacewalks/>. All analysis code, the processed dataset, and the source Quarto document used to generate this report are available at https://github.com/vrigoli/sPacewalkeRs_playful-planets under a GNU General Public v3.0 licence. The repository is archived at Zenodo under 10.5072/zenodo.491774.
 
 ---
 
