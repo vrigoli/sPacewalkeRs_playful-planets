@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: sPacewalkeRs_playful-planets
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Olivia
+    family-names: Rigoli
+    email: oah059@uowmail.edu.au
+    affiliation: UOW
+identifiers:
+  - type: doi
+    value: 10.5072/zenodo.491774
+repository-code: 'https://github.com/vrigoli/sPacewalkeRs_playful-planets'
+abstract: >-
+  Extravehicular activity (EVA) — colloquially known as
+  spacewalking — has been an essential component of human
+  spaceflight since Alexei Leonov became the first person to
+  venture outside a spacecraft in March 1965 (NASA Johnson
+  Space Center 2024). Here we present a quantitative
+  analysis of all recorded EVAs conducted by NASA and
+  Roscosmos from 1965 to present, examining temporal trends
+  in EVA frequency, cumulative programme milestones,
+  duration distributions, and the contributions of
+  individual crew members. Together, these data provide a
+  comprehensive quantitative record of one of the most
+  physically and technically demanding activities in human
+  spaceflight.
